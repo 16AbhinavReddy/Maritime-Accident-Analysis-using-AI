@@ -1,0 +1,252 @@
+Top 10 Keywords for label 'Decision Events':
+bridge: 45 occurrences
+risk: 34 occurrences
+collision: 33 occurrences
+fishing: 29 occurrences
+safety: 28 occurrences
+decision: 27 occurrences
+failure: 26 occurrences
+accident: 26 occurrences
+ship: 23 occurrences
+skipper: 23 occurrences
+
+Top 10 Keywords for label 'Skill Based Events':
+bridge: 40 occurrences
+collision: 31 occurrences
+tow: 28 occurrences
+failure: 27 occurrences
+pilot: 19 occurrences
+fishing: 19 occurrences
+accident: 18 occurrences
+towing: 15 occurrences
+skipper: 15 occurrences
+grounding: 14 occurrences
+
+Top 10 Keywords for label 'Perception Events':
+bridge: 10 occurrences
+collision: 8 occurrences
+tow: 6 occurrences
+position: 4 occurrences
+barge: 3 occurrences
+contact: 3 occurrences
+accident: 3 occurrences
+lookout: 3 occurrences
+avoid: 3 occurrences
+failure: 3 occurrences
+
+Top 10 Keywords for label 'Routine Violation':
+safety: 19 occurrences
+collision: 19 occurrences
+risk: 17 occurrences
+fishing: 17 occurrences
+skipper: 16 occurrences
+sea: 15 occurrences
+accident: 14 occurrences
+overboard: 13 occurrences
+alcohol: 13 occurrences
+bridge: 13 occurrences
+
+Top 10 Keywords for label 'Physical Environment':
+bridge: 31 occurrences
+tow: 21 occurrences
+river: 18 occurrences
+safety: 13 occurrences
+collision: 13 occurrences
+accident: 12 occurrences
+sinking: 11 occurrences
+decision: 11 occurrences
+ship: 11 occurrences
+towing: 10 occurrences
+
+Top 10 Keywords for label 'Technical Environment':
+engine: 67 occurrences
+failure: 53 occurrences
+fishing: 49 occurrences
+flooding: 41 occurrences
+sinking: 34 occurrences
+bridge: 33 occurrences
+safety: 29 occurrences
+hull: 29 occurrences
+failed: 26 occurrences
+aboard: 25 occurrences
+
+Top 10 Keywords for label 'Space Environment':
+stability: 14 occurrences
+deck: 13 occurrences
+caused: 10 occurrences
+fishing: 10 occurrences
+boat: 8 occurrences
+flooding: 8 occurrences
+skipper: 7 occurrences
+bridge: 7 occurrences
+water: 7 occurrences
+accident: 7 occurrences
+
+Top 10 Keywords for label 'Communications':
+bridge: 41 occurrences
+collision: 30 occurrences
+ship: 26 occurrences
+accident: 18 occurrences
+skipper: 12 occurrences
+master: 10 occurrences
+lack: 9 occurrences
+control: 9 occurrences
+management: 9 occurrences
+port: 9 occurrences
+
+Top 10 Keywords for label 'Self Imposed Stress':
+alcohol: 16 occurrences
+bridge: 7 occurrences
+skipper: 6 occurrences
+distracted: 4 occurrences
+fishing: 4 occurrences
+risk: 4 occurrences
+navigation: 3 occurrences
+deckhand: 3 occurrences
+emergency: 3 occurrences
+working: 3 occurrences
+
+Top 10 Keywords for label 'Awareness Cognitive Factors':
+bridge: 30 occurrences
+collision: 25 occurrences
+lookout: 20 occurrences
+accident: 15 occurrences
+watch: 14 occurrences
+ship: 13 occurrences
+skipper: 13 occurrences
+distracted: 12 occurrences
+safety: 11 occurrences
+officer: 10 occurrences
+
+Top 10 Keywords for label 'Adverse Psychological':
+bridge: 15 occurrences
+skipper: 8 occurrences
+tow: 8 occurrences
+risk: 8 occurrences
+safety: 7 occurrences
+passage: 6 occurrences
+navigational: 6 occurrences
+pilot: 5 occurrences
+sea: 5 occurrences
+watch: 5 occurrences
+
+Top 10 Keywords for label 'Adverse Physiological':
+fatigue: 14 occurrences
+bridge: 13 occurrences
+watch: 13 occurrences
+asleep: 13 occurrences
+failure: 9 occurrences
+alarm: 8 occurrences
+grounding: 8 occurrences
+skipper: 8 occurrences
+fishing: 7 occurrences
+officer: 5 occurrences
+
+Top 10 Keywords for label 'Medical(or)Mental':
+bridge: 10 occurrences
+failure: 8 occurrences
+fatigue: 8 occurrences
+ship: 7 occurrences
+tow: 7 occurrences
+asleep: 6 occurrences
+skipper: 6 occurrences
+control: 6 occurrences
+collision: 6 occurrences
+accident: 5 occurrences
+
+Top 10 Keywords for label 'Individual Perception':
+crane: 1 occurrences
+board: 1 occurrences
+storm: 1 occurrences
+runway: 1 occurrences
+grain: 1 occurrences
+misjudgment: 1 occurrences
+cat: 1 occurrences
+facility: 1 occurrences
+payloader: 1 occurrences
+gh: 1 occurrences
+
+Top 10 Keywords for label 'Inadequate Supervision':
+bridge: 30 occurrences
+safety: 27 occurrences
+accident: 22 occurrences
+ship: 21 occurrences
+failure: 16 occurrences
+inadequate: 16 occurrences
+skipper: 14 occurrences
+risk: 14 occurrences
+deck: 13 occurrences
+collision: 13 occurrences
+
+Top 10 Keywords for label 'Failure to Correct a Known Problem':
+failure: 9 occurrences
+safety: 7 occurrences
+ship: 6 occurrences
+collision: 5 occurrences
+safe: 4 occurrences
+flooding: 4 occurrences
+lack: 4 occurrences
+bridge: 4 occurrences
+overboard: 4 occurrences
+fishing: 3 occurrences
+
+Top 10 Keywords for label 'Planned Inappropriate Operations':
+bridge: 25 occurrences
+safety: 18 occurrences
+collision: 18 occurrences
+failure: 15 occurrences
+skipper: 14 occurrences
+accident: 13 occurrences
+ship: 13 occurrences
+risk: 12 occurrences
+fishing: 12 occurrences
+tow: 11 occurrences
+
+Top 10 Keywords for label 'Supervisory Violations':
+risk: 4 occurrences
+safety: 4 occurrences
+skipper: 3 occurrences
+buoy: 2 occurrences
+injured: 2 occurrences
+ferry: 2 occurrences
+bridge: 2 occurrences
+management: 2 occurrences
+cargo: 2 occurrences
+vehicles: 2 occurrences
+
+Top 10 Keywords for label 'Organizational Culture(or)Climate':
+safety: 9 occurrences
+overboard: 5 occurrences
+accident: 5 occurrences
+ship: 5 occurrences
+management: 4 occurrences
+sea: 4 occurrences
+risk: 3 occurrences
+bridge: 3 occurrences
+safe: 3 occurrences
+hazardous: 3 occurrences
+
+Top 10 Keywords for label 'Organizational Processes':
+safety: 39 occurrences
+bridge: 37 occurrences
+accident: 26 occurrences
+ship: 22 occurrences
+risk: 19 occurrences
+skipper: 19 occurrences
+lack: 18 occurrences
+failure: 18 occurrences
+management: 18 occurrences
+inadequate: 17 occurrences
+
+Top 10 Keywords for label 'Resource Management':
+failure: 41 occurrences
+engine: 32 occurrences
+bridge: 23 occurrences
+failed: 22 occurrences
+fishing: 21 occurrences
+accident: 19 occurrences
+safety: 18 occurrences
+flooding: 18 occurrences
+emergency: 17 occurrences
+aboard: 16 occurrences
+

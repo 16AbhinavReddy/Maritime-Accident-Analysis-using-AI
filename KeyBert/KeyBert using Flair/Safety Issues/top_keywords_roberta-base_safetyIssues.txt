@@ -1,0 +1,252 @@
+Top 10 Keywords for label 'Decision Events':
+board: 40 occurrences
+assessment: 32 occurrences
+pilot: 30 occurrences
+decision: 29 occurrences
+fishing: 25 occurrences
+procedures: 22 occurrences
+captain: 21 occurrences
+tow: 20 occurrences
+operations: 19 occurrences
+equipment: 17 occurrences
+
+Top 10 Keywords for label 'Skill Based Events':
+pilot: 42 occurrences
+tow: 26 occurrences
+board: 21 occurrences
+training: 19 occurrences
+bridge: 18 occurrences
+fishing: 17 occurrences
+collision: 16 occurrences
+grounding: 15 occurrences
+resulted: 13 occurrences
+contributing: 13 occurrences
+
+Top 10 Keywords for label 'Perception Events':
+pilot: 6 occurrences
+awareness: 6 occurrences
+tow: 6 occurrences
+bridge: 6 occurrences
+time: 5 occurrences
+electronic: 4 occurrences
+positional: 3 occurrences
+fully: 3 occurrences
+board: 3 occurrences
+resulted: 3 occurrences
+
+Top 10 Keywords for label 'Routine Violation':
+board: 18 occurrences
+alcohol: 16 occurrences
+fishing: 15 occurrences
+equipment: 13 occurrences
+regulations: 13 occurrences
+training: 12 occurrences
+overboard: 12 occurrences
+procedures: 8 occurrences
+wearing: 8 occurrences
+fully: 8 occurrences
+
+Top 10 Keywords for label 'Physical Environment':
+tow: 22 occurrences
+pilot: 20 occurrences
+river: 16 occurrences
+board: 16 occurrences
+decision: 15 occurrences
+area: 13 occurrences
+engine: 13 occurrences
+bridge: 10 occurrences
+tidal: 10 occurrences
+properly: 9 occurrences
+
+Top 10 Keywords for label 'Technical Environment':
+engine: 76 occurrences
+board: 56 occurrences
+fishing: 46 occurrences
+flooding: 40 occurrences
+hull: 31 occurrences
+aboard: 28 occurrences
+sinking: 25 occurrences
+determined: 22 occurrences
+fitted: 20 occurrences
+procedures: 19 occurrences
+
+Top 10 Keywords for label 'Space Environment':
+weight: 11 occurrences
+board: 11 occurrences
+flooding: 8 occurrences
+engine: 8 occurrences
+forces: 7 occurrences
+overboard: 7 occurrences
+fully: 7 occurrences
+fishing: 7 occurrences
+hull: 6 occurrences
+reduced: 6 occurrences
+
+Top 10 Keywords for label 'Communications':
+board: 30 occurrences
+pilot: 21 occurrences
+engine: 13 occurrences
+team: 12 occurrences
+training: 11 occurrences
+bridge: 10 occurrences
+management: 10 occurrences
+procedures: 10 occurrences
+collision: 9 occurrences
+assessment: 9 occurrences
+
+Top 10 Keywords for label 'Self Imposed Stress':
+alcohol: 19 occurrences
+consumption: 6 occurrences
+fishing: 5 occurrences
+board: 5 occurrences
+influence: 5 occurrences
+time: 4 occurrences
+accidentthe: 4 occurrences
+assessments: 3 occurrences
+adversely: 3 occurrences
+training: 3 occurrences
+
+Top 10 Keywords for label 'Awareness Cognitive Factors':
+board: 21 occurrences
+lookout: 17 occurrences
+proper: 14 occurrences
+distracted: 12 occurrences
+radar: 12 occurrences
+pilot: 11 occurrences
+training: 10 occurrences
+awareness: 10 occurrences
+monitoring: 10 occurrences
+course: 9 occurrences
+
+Top 10 Keywords for label 'Adverse Psychological':
+pilot: 11 occurrences
+board: 10 occurrences
+tow: 7 occurrences
+assessment: 7 occurrences
+equipment: 6 occurrences
+alarm: 6 occurrences
+procedures: 5 occurrences
+relied: 5 occurrences
+fully: 5 occurrences
+radar: 5 occurrences
+
+Top 10 Keywords for label 'Adverse Physiological':
+fatigue: 20 occurrences
+asleep: 19 occurrences
+grounding: 10 occurrences
+alarm: 10 occurrences
+board: 8 occurrences
+fishing: 7 occurrences
+affected: 6 occurrences
+course: 6 occurrences
+captain: 5 occurrences
+pilot: 5 occurrences
+
+Top 10 Keywords for label 'Medical(or)Mental':
+fatigue: 12 occurrences
+board: 10 occurrences
+pilot: 9 occurrences
+asleep: 8 occurrences
+tow: 7 occurrences
+alcohol: 7 occurrences
+engine: 6 occurrences
+equipment: 5 occurrences
+training: 5 occurrences
+adversely: 4 occurrences
+
+Top 10 Keywords for label 'Individual Perception':
+stimulation: 1 occurrences
+asleep: 1 occurrences
+alarms: 1 occurrences
+alteration: 1 occurrences
+possibly: 1 occurrences
+sleeping: 1 occurrences
+second: 1 occurrences
+fitted: 1 occurrences
+fatigue: 1 occurrences
+exacerbated: 1 occurrences
+
+Top 10 Keywords for label 'Inadequate Supervision':
+board: 32 occurrences
+procedures: 24 occurrences
+training: 20 occurrences
+assessment: 17 occurrences
+oversight: 16 occurrences
+properly: 15 occurrences
+engine: 14 occurrences
+management: 13 occurrences
+inadequate: 12 occurrences
+equipment: 11 occurrences
+
+Top 10 Keywords for label 'Failure to Correct a Known Problem':
+board: 9 occurrences
+resulted: 5 occurrences
+overboard: 5 occurrences
+procedures: 5 occurrences
+training: 4 occurrences
+flooding: 4 occurrences
+assessments: 3 occurrences
+lookout: 3 occurrences
+grounding: 3 occurrences
+fishing: 3 occurrences
+
+Top 10 Keywords for label 'Planned Inappropriate Operations':
+board: 27 occurrences
+pilot: 18 occurrences
+training: 15 occurrences
+equipment: 14 occurrences
+assessment: 13 occurrences
+area: 12 occurrences
+fully: 11 occurrences
+procedures: 10 occurrences
+decision: 10 occurrences
+tow: 9 occurrences
+
+Top 10 Keywords for label 'Supervisory Violations':
+associated: 4 occurrences
+board: 4 occurrences
+fully: 4 occurrences
+training: 3 occurrences
+assessments: 3 occurrences
+regulations: 3 occurrences
+guidance: 3 occurrences
+practices: 2 occurrences
+fishing: 2 occurrences
+afforded: 2 occurrences
+
+Top 10 Keywords for label 'Organizational Culture(or)Climate':
+board: 9 occurrences
+practices: 5 occurrences
+overboard: 5 occurrences
+operations: 5 occurrences
+hazardous: 4 occurrences
+equipment: 4 occurrences
+awareness: 4 occurrences
+properly: 4 occurrences
+training: 3 occurrences
+following: 3 occurrences
+
+Top 10 Keywords for label 'Organizational Processes':
+board: 48 occurrences
+procedures: 35 occurrences
+training: 33 occurrences
+assessment: 21 occurrences
+management: 20 occurrences
+equipment: 17 occurrences
+engine: 16 occurrences
+fishing: 16 occurrences
+operations: 15 occurrences
+properly: 15 occurrences
+
+Top 10 Keywords for label 'Resource Management':
+engine: 39 occurrences
+board: 36 occurrences
+fishing: 22 occurrences
+flooding: 18 occurrences
+equipment: 16 occurrences
+resulting: 16 occurrences
+barge: 14 occurrences
+aboard: 14 occurrences
+fitted: 13 occurrences
+management: 13 occurrences
+
